@@ -1,2 +1,2 @@
 # -dice-rool-simulater
- proyecto  creado con React,ts, tsx,reducer,tailwind
+proyecto  creado con Javascrip, HTML, CSS.
